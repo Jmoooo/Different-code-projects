@@ -1,0 +1,10 @@
+C:\Users\jcmor\source\repos\InventoryMonser\InventoryMonser\bin\Debug\InventoryMonser.exe.config
+C:\Users\jcmor\source\repos\InventoryMonser\InventoryMonser\bin\Debug\InventoryMonser.exe
+C:\Users\jcmor\source\repos\InventoryMonser\InventoryMonser\bin\Debug\InventoryMonser.pdb
+C:\Users\jcmor\source\repos\InventoryMonser\InventoryMonser\obj\Debug\InventoryMonser.csprojAssemblyReference.cache
+C:\Users\jcmor\source\repos\InventoryMonser\InventoryMonser\obj\Debug\InventoryMonser.Form1.resources
+C:\Users\jcmor\source\repos\InventoryMonser\InventoryMonser\obj\Debug\InventoryMonser.Properties.Resources.resources
+C:\Users\jcmor\source\repos\InventoryMonser\InventoryMonser\obj\Debug\InventoryMonser.csproj.GenerateResource.cache
+C:\Users\jcmor\source\repos\InventoryMonser\InventoryMonser\obj\Debug\InventoryMonser.exe
+C:\Users\jcmor\source\repos\InventoryMonser\InventoryMonser\obj\Debug\InventoryMonser.pdb
+C:\Users\jcmor\source\repos\InventoryMonser\InventoryMonser\obj\Debug\InventoryMonser.csproj.CoreCompileInputs.cache

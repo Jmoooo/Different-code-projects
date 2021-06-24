@@ -1,0 +1,5 @@
+﻿  ChangeBackP1.cpp
+C:\Users\jcmor\source\repos\ChangeBackP1\ChangeBackP1\ChangeBackP1.cpp(33,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jcmor\source\repos\ChangeBackP1\ChangeBackP1\ChangeBackP1.cpp(46,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jcmor\source\repos\ChangeBackP1\ChangeBackP1\ChangeBackP1.cpp(47,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  ChangeBackP1.vcxproj -> C:\Users\jcmor\source\repos\ChangeBackP1\Debug\ChangeBackP1.exe

@@ -1,0 +1,13 @@
+C:\Users\jcmor\source\repos\CollectTurtleSizes\CollectTurtleSizes\bin\Debug\netcoreapp3.1\CollectTurtleSizes.exe
+C:\Users\jcmor\source\repos\CollectTurtleSizes\CollectTurtleSizes\bin\Debug\netcoreapp3.1\CollectTurtleSizes.deps.json
+C:\Users\jcmor\source\repos\CollectTurtleSizes\CollectTurtleSizes\bin\Debug\netcoreapp3.1\CollectTurtleSizes.runtimeconfig.json
+C:\Users\jcmor\source\repos\CollectTurtleSizes\CollectTurtleSizes\bin\Debug\netcoreapp3.1\CollectTurtleSizes.runtimeconfig.dev.json
+C:\Users\jcmor\source\repos\CollectTurtleSizes\CollectTurtleSizes\bin\Debug\netcoreapp3.1\CollectTurtleSizes.dll
+C:\Users\jcmor\source\repos\CollectTurtleSizes\CollectTurtleSizes\bin\Debug\netcoreapp3.1\CollectTurtleSizes.pdb
+C:\Users\jcmor\source\repos\CollectTurtleSizes\CollectTurtleSizes\obj\Debug\netcoreapp3.1\CollectTurtleSizes.csprojAssemblyReference.cache
+C:\Users\jcmor\source\repos\CollectTurtleSizes\CollectTurtleSizes\obj\Debug\netcoreapp3.1\CollectTurtleSizes.AssemblyInfoInputs.cache
+C:\Users\jcmor\source\repos\CollectTurtleSizes\CollectTurtleSizes\obj\Debug\netcoreapp3.1\CollectTurtleSizes.AssemblyInfo.cs
+C:\Users\jcmor\source\repos\CollectTurtleSizes\CollectTurtleSizes\obj\Debug\netcoreapp3.1\CollectTurtleSizes.dll
+C:\Users\jcmor\source\repos\CollectTurtleSizes\CollectTurtleSizes\obj\Debug\netcoreapp3.1\CollectTurtleSizes.pdb
+C:\Users\jcmor\source\repos\CollectTurtleSizes\CollectTurtleSizes\obj\Debug\netcoreapp3.1\CollectTurtleSizes.csproj.CoreCompileInputs.cache
+C:\Users\jcmor\source\repos\CollectTurtleSizes\CollectTurtleSizes\obj\Debug\netcoreapp3.1\CollectTurtleSizes.genruntimeconfig.cache
