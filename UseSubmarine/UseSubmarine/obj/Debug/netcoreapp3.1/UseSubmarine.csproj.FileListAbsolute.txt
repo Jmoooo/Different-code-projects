@@ -1,0 +1,13 @@
+C:\Users\jcmor\source\repos\UseSubmarine\UseSubmarine\bin\Debug\netcoreapp3.1\UseSubmarine.exe
+C:\Users\jcmor\source\repos\UseSubmarine\UseSubmarine\bin\Debug\netcoreapp3.1\UseSubmarine.deps.json
+C:\Users\jcmor\source\repos\UseSubmarine\UseSubmarine\bin\Debug\netcoreapp3.1\UseSubmarine.runtimeconfig.json
+C:\Users\jcmor\source\repos\UseSubmarine\UseSubmarine\bin\Debug\netcoreapp3.1\UseSubmarine.runtimeconfig.dev.json
+C:\Users\jcmor\source\repos\UseSubmarine\UseSubmarine\bin\Debug\netcoreapp3.1\UseSubmarine.dll
+C:\Users\jcmor\source\repos\UseSubmarine\UseSubmarine\bin\Debug\netcoreapp3.1\UseSubmarine.pdb
+C:\Users\jcmor\source\repos\UseSubmarine\UseSubmarine\obj\Debug\netcoreapp3.1\UseSubmarine.csprojAssemblyReference.cache
+C:\Users\jcmor\source\repos\UseSubmarine\UseSubmarine\obj\Debug\netcoreapp3.1\UseSubmarine.AssemblyInfoInputs.cache
+C:\Users\jcmor\source\repos\UseSubmarine\UseSubmarine\obj\Debug\netcoreapp3.1\UseSubmarine.AssemblyInfo.cs
+C:\Users\jcmor\source\repos\UseSubmarine\UseSubmarine\obj\Debug\netcoreapp3.1\UseSubmarine.dll
+C:\Users\jcmor\source\repos\UseSubmarine\UseSubmarine\obj\Debug\netcoreapp3.1\UseSubmarine.pdb
+C:\Users\jcmor\source\repos\UseSubmarine\UseSubmarine\obj\Debug\netcoreapp3.1\UseSubmarine.csproj.CoreCompileInputs.cache
+C:\Users\jcmor\source\repos\UseSubmarine\UseSubmarine\obj\Debug\netcoreapp3.1\UseSubmarine.genruntimeconfig.cache

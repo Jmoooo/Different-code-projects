@@ -1,0 +1,13 @@
+C:\Users\jcmor\source\repos\TattooSizePrice\TattooSizePrice\bin\Debug\netcoreapp3.1\TattooSizePrice.exe
+C:\Users\jcmor\source\repos\TattooSizePrice\TattooSizePrice\bin\Debug\netcoreapp3.1\TattooSizePrice.deps.json
+C:\Users\jcmor\source\repos\TattooSizePrice\TattooSizePrice\bin\Debug\netcoreapp3.1\TattooSizePrice.runtimeconfig.json
+C:\Users\jcmor\source\repos\TattooSizePrice\TattooSizePrice\bin\Debug\netcoreapp3.1\TattooSizePrice.runtimeconfig.dev.json
+C:\Users\jcmor\source\repos\TattooSizePrice\TattooSizePrice\bin\Debug\netcoreapp3.1\TattooSizePrice.dll
+C:\Users\jcmor\source\repos\TattooSizePrice\TattooSizePrice\bin\Debug\netcoreapp3.1\TattooSizePrice.pdb
+C:\Users\jcmor\source\repos\TattooSizePrice\TattooSizePrice\obj\Debug\netcoreapp3.1\TattooSizePrice.csprojAssemblyReference.cache
+C:\Users\jcmor\source\repos\TattooSizePrice\TattooSizePrice\obj\Debug\netcoreapp3.1\TattooSizePrice.AssemblyInfoInputs.cache
+C:\Users\jcmor\source\repos\TattooSizePrice\TattooSizePrice\obj\Debug\netcoreapp3.1\TattooSizePrice.AssemblyInfo.cs
+C:\Users\jcmor\source\repos\TattooSizePrice\TattooSizePrice\obj\Debug\netcoreapp3.1\TattooSizePrice.dll
+C:\Users\jcmor\source\repos\TattooSizePrice\TattooSizePrice\obj\Debug\netcoreapp3.1\TattooSizePrice.pdb
+C:\Users\jcmor\source\repos\TattooSizePrice\TattooSizePrice\obj\Debug\netcoreapp3.1\TattooSizePrice.csproj.CoreCompileInputs.cache
+C:\Users\jcmor\source\repos\TattooSizePrice\TattooSizePrice\obj\Debug\netcoreapp3.1\TattooSizePrice.genruntimeconfig.cache
