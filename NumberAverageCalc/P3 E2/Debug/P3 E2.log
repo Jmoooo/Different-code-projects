@@ -1,0 +1,4 @@
+﻿  P3 E2.cpp
+C:\Users\jcmor\source\repos\P3 E2\P3 E2\P3 E2.cpp(14,40): warning C4305: 'initializing': truncation from '__int64' to 'double'
+C:\Users\jcmor\source\repos\P3 E2\P3 E2\P3 E2.cpp(15,40): warning C4305: 'initializing': truncation from '__int64' to 'double'
+  P3 E2.vcxproj -> C:\Users\jcmor\source\repos\P3 E2\Debug\P3 E2.exe

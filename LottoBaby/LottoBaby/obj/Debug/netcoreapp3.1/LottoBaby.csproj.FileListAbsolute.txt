@@ -1,0 +1,13 @@
+C:\Users\jcmor\source\repos\LottoBaby\LottoBaby\bin\Debug\netcoreapp3.1\LottoBaby.exe
+C:\Users\jcmor\source\repos\LottoBaby\LottoBaby\bin\Debug\netcoreapp3.1\LottoBaby.deps.json
+C:\Users\jcmor\source\repos\LottoBaby\LottoBaby\bin\Debug\netcoreapp3.1\LottoBaby.runtimeconfig.json
+C:\Users\jcmor\source\repos\LottoBaby\LottoBaby\bin\Debug\netcoreapp3.1\LottoBaby.runtimeconfig.dev.json
+C:\Users\jcmor\source\repos\LottoBaby\LottoBaby\bin\Debug\netcoreapp3.1\LottoBaby.dll
+C:\Users\jcmor\source\repos\LottoBaby\LottoBaby\bin\Debug\netcoreapp3.1\LottoBaby.pdb
+C:\Users\jcmor\source\repos\LottoBaby\LottoBaby\obj\Debug\netcoreapp3.1\LottoBaby.csprojAssemblyReference.cache
+C:\Users\jcmor\source\repos\LottoBaby\LottoBaby\obj\Debug\netcoreapp3.1\LottoBaby.AssemblyInfoInputs.cache
+C:\Users\jcmor\source\repos\LottoBaby\LottoBaby\obj\Debug\netcoreapp3.1\LottoBaby.AssemblyInfo.cs
+C:\Users\jcmor\source\repos\LottoBaby\LottoBaby\obj\Debug\netcoreapp3.1\LottoBaby.dll
+C:\Users\jcmor\source\repos\LottoBaby\LottoBaby\obj\Debug\netcoreapp3.1\LottoBaby.pdb
+C:\Users\jcmor\source\repos\LottoBaby\LottoBaby\obj\Debug\netcoreapp3.1\LottoBaby.csproj.CoreCompileInputs.cache
+C:\Users\jcmor\source\repos\LottoBaby\LottoBaby\obj\Debug\netcoreapp3.1\LottoBaby.genruntimeconfig.cache

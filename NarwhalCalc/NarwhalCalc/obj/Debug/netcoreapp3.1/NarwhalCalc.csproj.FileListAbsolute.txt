@@ -1,0 +1,13 @@
+C:\Users\jcmor\source\repos\NarwhalCalc\NarwhalCalc\obj\Debug\netcoreapp3.1\NarwhalCalc.csprojAssemblyReference.cache
+C:\Users\jcmor\source\repos\NarwhalCalc\NarwhalCalc\obj\Debug\netcoreapp3.1\NarwhalCalc.AssemblyInfoInputs.cache
+C:\Users\jcmor\source\repos\NarwhalCalc\NarwhalCalc\obj\Debug\netcoreapp3.1\NarwhalCalc.AssemblyInfo.cs
+C:\Users\jcmor\source\repos\NarwhalCalc\NarwhalCalc\bin\Debug\netcoreapp3.1\NarwhalCalc.exe
+C:\Users\jcmor\source\repos\NarwhalCalc\NarwhalCalc\bin\Debug\netcoreapp3.1\NarwhalCalc.deps.json
+C:\Users\jcmor\source\repos\NarwhalCalc\NarwhalCalc\bin\Debug\netcoreapp3.1\NarwhalCalc.runtimeconfig.json
+C:\Users\jcmor\source\repos\NarwhalCalc\NarwhalCalc\bin\Debug\netcoreapp3.1\NarwhalCalc.runtimeconfig.dev.json
+C:\Users\jcmor\source\repos\NarwhalCalc\NarwhalCalc\bin\Debug\netcoreapp3.1\NarwhalCalc.dll
+C:\Users\jcmor\source\repos\NarwhalCalc\NarwhalCalc\bin\Debug\netcoreapp3.1\NarwhalCalc.pdb
+C:\Users\jcmor\source\repos\NarwhalCalc\NarwhalCalc\obj\Debug\netcoreapp3.1\NarwhalCalc.dll
+C:\Users\jcmor\source\repos\NarwhalCalc\NarwhalCalc\obj\Debug\netcoreapp3.1\NarwhalCalc.pdb
+C:\Users\jcmor\source\repos\NarwhalCalc\NarwhalCalc\obj\Debug\netcoreapp3.1\NarwhalCalc.csproj.CoreCompileInputs.cache
+C:\Users\jcmor\source\repos\NarwhalCalc\NarwhalCalc\obj\Debug\netcoreapp3.1\NarwhalCalc.genruntimeconfig.cache
